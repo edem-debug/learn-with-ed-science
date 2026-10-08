@@ -1,0 +1,9 @@
+{
+  "name": "learn-with-ed-science-license-admin",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local license admin backend for Learn With ED Science",
+  "scripts": {
+    "start": "node ./server.js"
+  }
+}
